@@ -1,0 +1,53 @@
+.flex {
+  display: flex;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.filter__element {
+  background-color: #ccc;
+  border-radius: 2px;
+  margin: 2px 6px;
+  padding: 6px 8px;
+  color: #333;
+  border: 1px solid #ccc;
+}
+
+.filter__element_child {
+  margin: 0px 2px;
+}
+
+.filter__element:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+
+.filter__element_child-btn {
+  margin-left: 6px;
+  justify-self: end;
+  text-transform: uppercase;
+}
+
+.filter__element_child-btn:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.light {
+  font-weight: lighter;
+}
+
+.width-fit {
+  width: fit-content;
+}

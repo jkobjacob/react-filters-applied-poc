@@ -4,4 +4,4 @@ A POC built for a side project which displays a set of filters, exposes function
 
 ## Demo
 
-![](https://github.com/jkobjacob/react-filers-applied-poc/blob/master/gifs/demo.gif)
+![](https://github.com/jkobjacob/react-filers-applied-poc/blob/master/gif/demo.gif)
